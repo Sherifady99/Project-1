@@ -1,0 +1,1346 @@
+{
+    "418560": {
+        "data": {
+            "share": {
+                "title": "Erling Haaland - Spielerprofil",
+                "url": "https://www.transfermarkt.de/erling-haaland/profil/spieler/418560",
+                "description": "Das ist das Spielerprofil von Erling Haaland."
+            },
+            "playerProfile": {
+                "playerID": "418560",
+                "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/418560-1709108116.png?lm=1",
+                "playerName": "Erling Haaland",
+                "playerFullName": "Erling Haaland",
+                "birthplace": "Leeds",
+                "dateOfBirth": "21.07.2000",
+                "dateOfDeath": null,
+                "playerShirtNumber": "9",
+                "birthplaceCountry": "England",
+                "birthplaceCountryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569",
+                "age": "24",
+                "height": "1,95",
+                "foot": "links",
+                "internationalTeam": "Norwegen",
+                "internationalTeamImage": "https://tmssl.akamaized.net//images/flagge/verysmall/125.png?lm=1520611569",
+                "internationalTeamStatus": "Akt. Nationalspieler",
+                "internationalGames": "39",
+                "internationalGoals": "38",
+                "internationalTeamShortTag": "A",
+                "internationalShirtNumber": "9",
+                "internationalWmMember": false,
+                "internationalValueRank": 1,
+                "country": "Norwegen",
+                "countrynameEN": "Norway",
+                "countryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/125.png?lm=1520611569",
+                "countryShortName": "NOR",
+                "secondCountry": "",
+                "secondCountryImage": "",
+                "league": "Premier League",
+                "leaguenameEN": "Premier League",
+                "leagueLogo": "https://tmssl.akamaized.net//images/logo/normal/gb1.png?lm=1521104656",
+                "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+                "club": "Manchester City",
+                "clubnameEN": "Manchester City",
+                "clubID": "281",
+                "loan": {
+                    "loan": "",
+                    "loanStart": "",
+                    "loanUntil": "",
+                    "contractOptions": "",
+                    "ownerName": "",
+                    "ownerID": "",
+                    "ownerImage": "",
+                    "ownerContractUntil": ""
+                },
+                "contractExpiryDate": "30.06.2034",
+                "agent": "Rafaela Pimenta",
+                "agentId": "282",
+                "agentVerificationStatus": "1",
+                "agentVerificationDate": 1673305200,
+                "outfitter": "",
+                "positionGroup": "Sturm",
+                "playerMainPosition": "Mittelstürmer",
+                "playerSecondPosition": "",
+                "playerThirdPosition": "",
+                "marketValue": "200,00",
+                "marketValueCurrency": "€",
+                "marketValueNumeral": "Mio.",
+                "marketValueLastChange": "16.12.2024",
+                "relatedness": [
+                    {
+                        "id": "107179",
+                        "personName": "A. Haaland",
+                        "personGroup": "spieler",
+                        "personID": "117351",
+                        "degreeOfRelationship": "Sohn"
+                    },
+                    {
+                        "id": "435587",
+                        "personName": "J. Brunes",
+                        "personGroup": "spieler",
+                        "personID": "491830",
+                        "degreeOfRelationship": "Cousin"
+                    },
+                    {
+                        "id": "748755",
+                        "personName": "Albert Tjåland",
+                        "personGroup": "spieler",
+                        "personID": "844294",
+                        "degreeOfRelationship": "Cousin"
+                    }
+                ],
+                "injury": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "rehabilitationFlag": ""
+                },
+                "absence": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "competitionID": "",
+                    "matches": ""
+                },
+                "allSuspensions": []
+            },
+            "performanceSeasons": [
+                {
+                    "key": "2024",
+                    "title": "24/25"
+                },
+                {
+                    "key": "2023",
+                    "title": "23/24"
+                },
+                {
+                    "key": "2022",
+                    "title": "22/23"
+                },
+                {
+                    "key": "2021",
+                    "title": "21/22"
+                },
+                {
+                    "key": "2020",
+                    "title": "20/21"
+                },
+                {
+                    "key": "2019",
+                    "title": "19/20"
+                },
+                {
+                    "key": "2018",
+                    "title": "18/19"
+                },
+                {
+                    "key": "2017",
+                    "title": "17/18"
+                },
+                {
+                    "key": "2016",
+                    "title": "16/17"
+                },
+                {
+                    "key": "2015",
+                    "title": "15/16"
+                }
+            ],
+            "heroImages": [
+                {
+                    "id": "148917",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2024-1727103341-148917.jpg?lm=1727103361",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "157818",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-scores-for-manchester-city-2024-1736010622-157818.jpg?lm=1736010651",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "148004",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2024-1726331023-148004.jpg?lm=1726331039",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "145419",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2024-1724007958-145419.jpg?lm=1724007972",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "145295",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-alf-inge-haaland-2023-1723796863-145295.jpg?lm=1723796899",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "130532",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-1709072645-130532.jpg?lm=1709072661",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "122571",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2023-24-1700923761-122571.jpg?lm=1700923774",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "68944",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-borussia-dortmund-2021-1628965181-68944.jpg?lm=1628965203",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "120392",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2023-1698268619-120392.jpg?lm=1698268631",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "115706",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2023-24-1693673100-115706.jpg?lm=1693673118",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "113711",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/haaland-pots-2022-23-spotlight-1691591078-113711.jpg?lm=1691591084",
+                    "source": "TM/IMAGO"
+                },
+                {
+                    "id": "106474",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-torrekord-premier-league-1683148042-106474.jpg?lm=1683148075",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "105133",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2023-1681027934-105133.jpg?lm=1681027963",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "103618",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-and-pep-guardiola-1678830078-103618.jpg?lm=1678830089",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "103617",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/funferpack-von-erling-haaland-in-der-champions-league-2022-23-1678829921-103617.jpg?lm=1678829939",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "102040",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2022-23-1676530632-102040.jpg?lm=1676530644",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "100394",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-man-city-2023-1674201974-100394.jpg?lm=1674202000",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "92551",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-man-city-2022-1663424977-92551.jpg?lm=1663424984",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "92390",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-trifft-fur-man-city-gegen-den-bvb-2022-1663189387-92390.jpg?lm=1663189402",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "91459",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2022-1662016665-91459.jpg?lm=1662016686",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "89750",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-bei-manchester-city-2022-1659945400-89750.jpg?lm=1659945431",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "89727",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2022-1659896276-89727.jpg?lm=1659896286",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "88451",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-manchester-city-2022-1657811547-88451.jpg?lm=1657811563",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "67010",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-dfb-pokal-sieg-2020-21-borussia-dortmund-bvb-1625911221-67010.jpg?lm=1625911265",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "63003",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-borussia-dortmund-1621586564-63003.jpg?lm=1621586574",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "61051",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/dortmund-sturmer-erling-haaland-im-sonder-trikot-1618818005-61051.jpg?lm=1618818019",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "51999",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-borussia-dortmund-1606253819-51999.jpg?lm=1606253843",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "51814",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-borussia-dortmund-1605992945-51814.jpg?lm=1605992972",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "41355",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-1592064065-41355.jpg?lm=1592064077",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "31574",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/haaland-im-trikot-vom-bvb-1581427183-31574.jpg?lm=1581427198",
+                    "source": "TM/IMAGO"
+                },
+                {
+                    "id": "30029",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-borussia-dortmund-1579364356-30029.jpg?lm=1579364372",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "31181",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-watzek-zorc-borussia-dortmund-bvb-1580898014-31181.jpg?lm=1580898056",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "28198",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-red-bull-salzburg-1576056688-28198.jpg?lm=1576056702",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "27072",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-rb-salzburg-1572537473-27072.jpg?lm=1572537487",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "25859",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-braut-haland-salzburg-torjubel-1568803109-25859.jpg?lm=1568803125",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "25346",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-braut-haland-red-bull-salzburg-1567521270-25346.jpg?lm=1567521420",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "16393",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-braut-haland-molde-1530511521-16393.jpg?lm=1530511536",
+                    "source": "IMAGO"
+                }
+            ]
+        },
+        "status": true,
+        "message": "Successful"
+    },
+    "342229": {
+        "data": {
+            "share": {
+                "title": "Kylian Mbappé - Spielerprofil",
+                "url": "https://www.transfermarkt.de/kylian-mbappe/profil/spieler/342229",
+                "description": "Das ist das Spielerprofil von Kylian Mbappé."
+            },
+            "playerProfile": {
+                "playerID": "342229",
+                "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/342229-1682683695.jpg?lm=1",
+                "playerName": "Kylian Mbappé",
+                "playerFullName": "Kylian Mbappé",
+                "birthplace": "Paris",
+                "dateOfBirth": "20.12.1998",
+                "dateOfDeath": null,
+                "playerShirtNumber": "9",
+                "birthplaceCountry": "Frankreich",
+                "birthplaceCountryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
+                "age": "26",
+                "height": "1,78",
+                "foot": "rechts",
+                "internationalTeam": "Frankreich",
+                "internationalTeamImage": "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
+                "internationalTeamStatus": "Nationalspieler",
+                "internationalGames": "86",
+                "internationalGoals": "48",
+                "internationalTeamShortTag": "A",
+                "internationalShirtNumber": "10",
+                "internationalWmMember": false,
+                "internationalValueRank": 3,
+                "country": "Frankreich",
+                "countrynameEN": "France",
+                "countryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
+                "countryShortName": "FRA",
+                "secondCountry": "Kamerun",
+                "secondCountryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/31.png?lm=1520611569",
+                "league": "LaLiga",
+                "leaguenameEN": "LaLiga",
+                "leagueLogo": "https://tmssl.akamaized.net//images/logo/normal/es1.png?lm=1725974302",
+                "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1729684474",
+                "club": "Real Madrid",
+                "clubnameEN": "Real Madrid",
+                "clubID": "418",
+                "loan": {
+                    "loan": "",
+                    "loanStart": "",
+                    "loanUntil": "",
+                    "contractOptions": "",
+                    "ownerName": "",
+                    "ownerID": "",
+                    "ownerImage": "",
+                    "ownerContractUntil": ""
+                },
+                "contractExpiryDate": "30.06.2029",
+                "agent": "Familienangehörige",
+                "agentId": "1207",
+                "agentVerificationStatus": null,
+                "agentVerificationDate": false,
+                "outfitter": "",
+                "positionGroup": "Sturm",
+                "playerMainPosition": "Mittelstürmer",
+                "playerSecondPosition": "Linksaußen",
+                "playerThirdPosition": "Rechtsaußen",
+                "marketValue": "160,00",
+                "marketValueCurrency": "€",
+                "marketValueNumeral": "Mio.",
+                "marketValueLastChange": "27.12.2024",
+                "relatedness": [
+                    {
+                        "id": "40446",
+                        "personName": "J. Kembo Ekoko",
+                        "personGroup": "spieler",
+                        "personID": "38062",
+                        "degreeOfRelationship": "Halbbruder"
+                    },
+                    {
+                        "id": "903666",
+                        "personName": "Ethan Mbappé",
+                        "personGroup": "spieler",
+                        "personID": "1018923",
+                        "degreeOfRelationship": "Bruder"
+                    },
+                    {
+                        "id": "24749",
+                        "personName": "Pierre Mbappé",
+                        "personGroup": "trainer",
+                        "personID": "258275",
+                        "degreeOfRelationship": "Neffe"
+                    }
+                ],
+                "injury": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "rehabilitationFlag": ""
+                },
+                "absence": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "competitionID": "",
+                    "matches": ""
+                },
+                "allSuspensions": []
+            },
+            "performanceSeasons": [
+                {
+                    "key": "2024",
+                    "title": "24/25"
+                },
+                {
+                    "key": "2023",
+                    "title": "23/24"
+                },
+                {
+                    "key": "2022",
+                    "title": "22/23"
+                },
+                {
+                    "key": "2021",
+                    "title": "21/22"
+                },
+                {
+                    "key": "2020",
+                    "title": "20/21"
+                },
+                {
+                    "key": "2019",
+                    "title": "19/20"
+                },
+                {
+                    "key": "2018",
+                    "title": "18/19"
+                },
+                {
+                    "key": "2017",
+                    "title": "17/18"
+                },
+                {
+                    "key": "2016",
+                    "title": "16/17"
+                },
+                {
+                    "key": "2015",
+                    "title": "15/16"
+                },
+                {
+                    "key": "2014",
+                    "title": "14/15"
+                }
+            ],
+            "heroImages": [
+                {
+                    "id": "161539",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-real-madrid-2025-1740002179-161539.jpg?lm=1740002206",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "160954",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/erling-haaland-kylian-mbappe-manchester-city-real-madrid-2024-2025-1739352207-160954.jpg?lm=1739352260",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "157092",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-real-madrid-2024-1734548996-157092.jpg?lm=1734549011",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "155694",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/vini-mbappe-and-bellingham-real-madrid-2024-1733249934-155694.jpg?lm=1733249964",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "145579",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-real-madrid-2024-2025-1724077177-145579.jpg?lm=1724077229",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "145164",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-real-madrid-2024-1723667554-145164.jpg?lm=1723667567",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "142555",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-real-madrid-2024-25-presentation-1721130438-142555.jpg?lm=1721130450",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "139133",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mbappe-frankreich-2024-1042852118h-1718112402-139133.jpg?lm=1718112460",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "138475",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-1717521239-138475.jpg?lm=1717521272",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "136253",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-psg-2024-1715580268-136253.jpg?lm=1715580276",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "131700",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mbappe-kylian-2023-2024-paris-sg-1710367904-131700.jpg?lm=1710367928",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "116567",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-psg-23-24-1694609196-116567.jpg?lm=1694609207",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "124683",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-ethan-mbappe-paris-saint-germain-2023-1703152022-124683.jpg?lm=1703152035",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "112393",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mbappe-kylian-2022-2023-psg-1032346914hjpg-1690297101-112393.jpg?lm=1690297120",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "102635",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-psg-2023-1677479173-102635.jpg?lm=1677479183",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "92557",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-psg-2022-23-1663434399-92557.jpg?lm=1663434413",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "89985",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/player-of-the-season-mbappe-spotlight-neu-1660218540-89985.jpg?lm=1660218543",
+                    "source": "TM/PSG"
+                },
+                {
+                    "id": "85545",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-psg-2022-1653161100-85545.jpg?lm=1653161120",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "83126",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-paris-saint-germain-2022-1649050213-83126.jpg?lm=1649050252",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "64389",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-frankreich-mbappe-1623091843-64389.jpg?lm=1623091856",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "58346",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-paris-saint-germain-1615274665-58346.jpg?lm=1615274684",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "55175",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-paris-saint-germain-1611388326-55175.jpg?lm=1611388345",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "48132",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-player-of-the-season-spotlight-1601475543-48132.jpg?lm=1601475546",
+                    "source": "Mbappé/Transfermarkt/imago"
+                },
+                {
+                    "id": "30258",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-psg-1579705083-30258.jpg?lm=1579705099",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "34755",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-solo-jubel-rasen-psg-paris-1585148898-34755.jpg?lm=1585148928",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "33150",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-und-neymar-jubeln-beim-51-von-psg-in-lyon-1583387252-33150.jpg?lm=1583387267",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "34742",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-jubel-psg-1585146429-34742.jpg?lm=1585146445",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "34746",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mbappe-neymar-meisterschaft-paris-1585147416-34746.jpg?lm=1585147431",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "30062",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mbappe-neymar-celebrate-1579519836-30062.jpg?lm=1579519860",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "11861",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mbappe-kylian-paris-1504944620-11861.jpg?lm=1504944634",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "17479",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-psg-1535876039-17479.jpg?lm=1535876079",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "16618",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mbappe-1531726753-16618.jpg?lm=1531726780",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "15823",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbapp-frankreich-1528378397-15823.jpg?lm=1528378406",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "15818",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbapp-paris-saint-germain-1528374625-15818.jpg?lm=1528374637",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "11897",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/neymar-mbappe-cavani-1505280877-11897.jpg?lm=1505280883",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "11217",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mbappe-monaco-1500565166-11217.jpg?lm=1500565181",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "9125",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mbappe-monaco-1490332328-9125.jpg?lm=1490332349",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "9739",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbapp-1492022654-9739.jpg?lm=1492022667",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "6693",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/kylian-mbappe-1482167420-6693.jpg?lm=1483606232",
+                    "source": "IMAGO"
+                }
+            ]
+        },
+        "status": true,
+        "message": "Successful"
+    },
+    "401923": {
+        "data": {
+            "share": {
+                "title": "Victor Osimhen - Spielerprofil",
+                "url": "https://www.transfermarkt.de/victor-osimhen/profil/spieler/401923",
+                "description": "Das ist das Spielerprofil von Victor Osimhen."
+            },
+            "playerProfile": {
+                "playerID": "401923",
+                "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/401923-1737730981.jpg?lm=1",
+                "playerName": "Victor Osimhen",
+                "playerFullName": "Victor Osimhen",
+                "birthplace": "Lagos",
+                "dateOfBirth": "29.12.1998",
+                "dateOfDeath": null,
+                "playerShirtNumber": "45",
+                "birthplaceCountry": "Nigeria",
+                "birthplaceCountryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569",
+                "age": "26",
+                "height": "1,86",
+                "foot": "rechts",
+                "internationalTeam": "Nigeria",
+                "internationalTeamImage": "https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569",
+                "internationalTeamStatus": "Akt. Nationalspieler",
+                "internationalGames": "35",
+                "internationalGoals": "21",
+                "internationalTeamShortTag": "A",
+                "internationalShirtNumber": "9",
+                "internationalWmMember": false,
+                "internationalValueRank": 16,
+                "country": "Nigeria",
+                "countrynameEN": "Nigeria",
+                "countryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569",
+                "countryShortName": "NGA",
+                "secondCountry": "",
+                "secondCountryImage": "",
+                "league": "Süper Lig",
+                "leaguenameEN": "Süper Lig",
+                "leagueLogo": "https://tmssl.akamaized.net//images/logo/normal/tr1.png?lm=1723019495",
+                "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/141.png?lm=1406739071",
+                "club": "Galatasaray",
+                "clubnameEN": "Galatasaray",
+                "clubID": "141",
+                "loan": {
+                    "loan": "ist",
+                    "loanStart": "04.09.2024",
+                    "loanUntil": "30.06.2025",
+                    "contractOptions": "",
+                    "ownerName": "SSC Neapel",
+                    "ownerID": "6195",
+                    "ownerImage": "https://tmssl.akamaized.net//images/wappen/medium/6195.png?lm=1720861078",
+                    "ownerContractUntil": "30.06.2026"
+                },
+                "contractExpiryDate": "30.06.2026",
+                "agent": "Roberto Calenda",
+                "agentId": "745",
+                "agentVerificationStatus": "0",
+                "agentVerificationDate": -62169987208,
+                "outfitter": "",
+                "positionGroup": "Sturm",
+                "playerMainPosition": "Mittelstürmer",
+                "playerSecondPosition": "",
+                "playerThirdPosition": "",
+                "marketValue": "75,00",
+                "marketValueCurrency": "€",
+                "marketValueNumeral": "Mio.",
+                "marketValueLastChange": "23.12.2024",
+                "relatedness": [],
+                "injury": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "rehabilitationFlag": ""
+                },
+                "absence": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "competitionID": "",
+                    "matches": ""
+                },
+                "allSuspensions": []
+            },
+            "performanceSeasons": [
+                {
+                    "key": "2024",
+                    "title": "24/25"
+                },
+                {
+                    "key": "2023",
+                    "title": "23/24"
+                },
+                {
+                    "key": "2022",
+                    "title": "22/23"
+                },
+                {
+                    "key": "2021",
+                    "title": "21/22"
+                },
+                {
+                    "key": "2020",
+                    "title": "20/21"
+                },
+                {
+                    "key": "2019",
+                    "title": "19/20"
+                },
+                {
+                    "key": "2018",
+                    "title": "18/19"
+                },
+                {
+                    "key": "2017",
+                    "title": "17/18"
+                },
+                {
+                    "key": "2016",
+                    "title": "16/17"
+                },
+                {
+                    "key": "2015",
+                    "title": "15/16"
+                },
+                {
+                    "key": "2014",
+                    "title": "14/15"
+                }
+            ],
+            "heroImages": [
+                {
+                    "id": "148167",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-galatasaray-1726489537-148167.jpg?lm=1726489549",
+                    "source": "Galatasaray"
+                },
+                {
+                    "id": "151843",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-mauro-icardi-galatasaray-1729501438-151843.jpg?lm=1729501462",
+                    "source": "Galatasaray"
+                },
+                {
+                    "id": "153950",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-galatasaray-2024-2025-1731404509-153950.jpg?lm=1731404525",
+                    "source": "Galatasaray SK"
+                },
+                {
+                    "id": "151844",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-galatasaray-overhead-kick-1729501581-151844.jpg?lm=1729501607",
+                    "source": "Galatasaray"
+                },
+                {
+                    "id": "149826",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-galatasaray-2024-2025-1727681737-149826.jpg?lm=1727681746",
+                    "source": "Galatasaray"
+                },
+                {
+                    "id": "147269",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-galatasaray-2024-2325-1725527528-147269.jpeg?lm=1725527538",
+                    "source": "Galatasaray SK"
+                },
+                {
+                    "id": "147268",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-galatasaray-2024-2325-1725527494-147268.jpeg?lm=1725527505",
+                    "source": "Galatasaray SK"
+                },
+                {
+                    "id": "134033",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-napoli-2023-2324-1712838138-134033.jpg?lm=1712838156",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "124162",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-and-kvicha-kvaratskhelia-napoli-2023-24-1702801166-124162.jpg?lm=1702801183",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "121611",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-napoli-2023-2324-1699619340-121611.jpg?lm=1699619350",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "116557",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-nigeria-2023-1694599297-116557.jpg?lm=1694599329",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "117800",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-ssc-neapel-1695793340-117800.jpg?lm=1695793353",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "114241",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-napoli-2023-2324-1692266331-114241.jpg?lm=1692266347",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "94105",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-ssc-neapel-2022-1665600735-94105.jpg?lm=1665600744",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "91341",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-napoli-2022-1661847649-91341.jpg?lm=1661847679",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "82885",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-nigeria-2021-1648634119-82885.jpg?lm=1648634136",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "81913",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-napoli-2021-22-1647250161-81913.jpg?lm=1647250172",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "70754",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-napoli-1631176538-70754.jpg?lm=1631176565",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "63187",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-ssc-napoli-1621608656-63187.jpg?lm=1621608689",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "63186",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-ssc-napoli-1621608652-63186.jpg?lm=1621608683",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "63185",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-ssc-napoli-1621608641-63185.jpg?lm=1621608667",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "59831",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-napoli-20-21-1617205313-59831.jpg?lm=1617205326",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "46609",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-ssc-napoli-1599057121-46609.jpg?lm=1599057096",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "43502",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/osimhen-napoli-1594735301-43502.jpg?lm=1594735286",
+                    "source": "Transfermarkt"
+                },
+                {
+                    "id": "39619",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-losc-lilla-1590497523-39619.jpg?lm=1590497523",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "26334",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-losc-lille-1570443292-26334.jpg?lm=1570443539",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "22477",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-rsc-charleroi-1558967272-22477.jpg?lm=1558967291",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "18368",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-rsc-charleroi-1540236193-18368.jpg?lm=1540236215",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "4936",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-1454510353-4936.jpg?lm=1483606014",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "4789",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-1446113681-4789.jpg?lm=1483605995",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "4788",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/victor-osimhen-1446044050-4788.jpg?lm=1483605995",
+                    "source": "IMAGO"
+                }
+            ]
+        },
+        "status": true,
+        "message": "Successful"
+    },
+    "146854": {
+        "data": {
+            "share": {
+                "title": "Wissam Ben Yedder - Spielerprofil",
+                "url": "https://www.transfermarkt.de/wissam-ben-yedder/profil/spieler/146854",
+                "description": "Das ist das Spielerprofil von Wissam Ben Yedder."
+            },
+            "playerProfile": {
+                "playerID": "146854",
+                "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/146854-1614089939.jpg?lm=1",
+                "playerName": "Wissam Ben Yedder",
+                "playerFullName": "Wissam Ben Yedder",
+                "birthplace": "Sarcelles",
+                "dateOfBirth": "12.08.1990",
+                "dateOfDeath": null,
+                "playerShirtNumber": "",
+                "birthplaceCountry": "Frankreich",
+                "birthplaceCountryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
+                "age": "34",
+                "height": "1,70",
+                "foot": "beidfüßig",
+                "internationalTeam": "Frankreich",
+                "internationalTeamImage": "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
+                "internationalTeamStatus": "Ehem. Nationalspieler",
+                "internationalGames": "19",
+                "internationalGoals": "3",
+                "internationalTeamShortTag": "A",
+                "internationalShirtNumber": "9",
+                "internationalWmMember": false,
+                "internationalValueRank": 430,
+                "country": "Frankreich",
+                "countrynameEN": "France",
+                "countryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
+                "countryShortName": "FRA",
+                "secondCountry": "Tunesien",
+                "secondCountryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/173.png?lm=1520611569",
+                "league": "",
+                "leaguenameEN": "",
+                "leagueLogo": "",
+                "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/515.png?lm=1456997255",
+                "club": "Vereinslos",
+                "clubnameEN": "Without Club",
+                "clubID": "515",
+                "loan": {
+                    "loan": "",
+                    "loanStart": "",
+                    "loanUntil": "",
+                    "contractOptions": "",
+                    "ownerName": "",
+                    "ownerID": "",
+                    "ownerImage": "",
+                    "ownerContractUntil": ""
+                },
+                "contractExpiryDate": "-",
+                "agent": "",
+                "agentId": "",
+                "agentVerificationStatus": "",
+                "agentVerificationDate": false,
+                "outfitter": "",
+                "positionGroup": "Sturm",
+                "playerMainPosition": "Mittelstürmer",
+                "playerSecondPosition": "Hängende Spitze",
+                "playerThirdPosition": "",
+                "marketValue": "4,00",
+                "marketValueCurrency": "€",
+                "marketValueNumeral": "Mio.",
+                "marketValueLastChange": "16.10.2024",
+                "relatedness": [],
+                "injury": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "rehabilitationFlag": ""
+                },
+                "absence": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "competitionID": "",
+                    "matches": ""
+                },
+                "allSuspensions": []
+            },
+            "performanceSeasons": [
+                {
+                    "key": "2023",
+                    "title": "23/24"
+                },
+                {
+                    "key": "2022",
+                    "title": "22/23"
+                },
+                {
+                    "key": "2021",
+                    "title": "21/22"
+                },
+                {
+                    "key": "2020",
+                    "title": "20/21"
+                },
+                {
+                    "key": "2019",
+                    "title": "19/20"
+                },
+                {
+                    "key": "2018",
+                    "title": "18/19"
+                },
+                {
+                    "key": "2017",
+                    "title": "17/18"
+                },
+                {
+                    "key": "2016",
+                    "title": "16/17"
+                },
+                {
+                    "key": "2015",
+                    "title": "15/16"
+                },
+                {
+                    "key": "2014",
+                    "title": "14/15"
+                },
+                {
+                    "key": "2013",
+                    "title": "13/14"
+                },
+                {
+                    "key": "2012",
+                    "title": "12/13"
+                },
+                {
+                    "key": "2011",
+                    "title": "11/12"
+                },
+                {
+                    "key": "2010",
+                    "title": "10/11"
+                }
+            ],
+            "heroImages": [
+                {
+                    "id": "115387",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/wissam-ben-yedder-as-monaco-2023-24-1693405783-115387.jpg?lm=1693405802",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "30509",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/wissam-ben-yedder-as-monaco-1580045935-30509.jpg?lm=1580045958",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "22865",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/wissam-ben-yedder-fc-sevilla-1560180659-22865.jpg?lm=1560180689",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "10491",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/wissam-ben-yedder-zeigefinger-1496138136-10491.jpg?lm=1496138170",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "10490",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/wissam-ben-yedder-1496138120-10490.jpg?lm=1496138158",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "10489",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/wissam-ben-yedder-1496138107-10489.jpg?lm=1496138150",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "10488",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/wissam-ben-yedder-fc-toulouse-1496138062-10488.jpg?lm=1496138076",
+                    "source": "IMAGO"
+                }
+            ]
+        },
+        "status": true,
+        "message": "Successful"
+    },
+    "580195": {
+        "data": {
+            "share": {
+                "title": "Jamal Musiala - Spielerprofil",
+                "url": "https://www.transfermarkt.de/jamal-musiala/profil/spieler/580195",
+                "description": "Das ist das Spielerprofil von Jamal Musiala."
+            },
+            "playerProfile": {
+                "playerID": "580195",
+                "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/580195-1711745441.jpg?lm=1",
+                "playerName": "Jamal Musiala",
+                "playerFullName": "Jamal Musiala",
+                "birthplace": "Stuttgart",
+                "dateOfBirth": "26.02.2003",
+                "dateOfDeath": null,
+                "playerShirtNumber": "42",
+                "birthplaceCountry": "Deutschland",
+                "birthplaceCountryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
+                "age": "22",
+                "height": "1,84",
+                "foot": "rechts",
+                "internationalTeam": "Deutschland",
+                "internationalTeamImage": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
+                "internationalTeamStatus": "Akt. Nationalspieler",
+                "internationalGames": "38",
+                "internationalGoals": "7",
+                "internationalTeamShortTag": "A",
+                "internationalShirtNumber": "10",
+                "internationalWmMember": true,
+                "internationalValueRank": 3,
+                "country": "Deutschland",
+                "countrynameEN": "Germany",
+                "countryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
+                "countryShortName": "DEU",
+                "secondCountry": "England",
+                "secondCountryImage": "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569",
+                "league": "Bundesliga",
+                "leaguenameEN": "Bundesliga",
+                "leagueLogo": "https://tmssl.akamaized.net//images/logo/normal/l1.png?lm=1525905518",
+                "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+                "club": "FC Bayern München",
+                "clubnameEN": "Bayern Munich",
+                "clubID": "27",
+                "loan": {
+                    "loan": "",
+                    "loanStart": "",
+                    "loanUntil": "",
+                    "contractOptions": "",
+                    "ownerName": "",
+                    "ownerID": "",
+                    "ownerImage": "",
+                    "ownerContractUntil": ""
+                },
+                "contractExpiryDate": "30.06.2030",
+                "agent": "11WINS GmbH",
+                "agentId": "2773",
+                "agentVerificationStatus": "1",
+                "agentVerificationDate": 1652306400,
+                "outfitter": "",
+                "positionGroup": "Mittelfeld",
+                "playerMainPosition": "Offensives Mittelfeld",
+                "playerSecondPosition": "Zentrales Mittelfeld",
+                "playerThirdPosition": "Linksaußen",
+                "marketValue": "140,00",
+                "marketValueCurrency": "€",
+                "marketValueNumeral": "Mio.",
+                "marketValueLastChange": "20.12.2024",
+                "relatedness": [],
+                "injury": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "rehabilitationFlag": ""
+                },
+                "absence": {
+                    "id": "",
+                    "title": "",
+                    "until": "-",
+                    "competitionID": "",
+                    "matches": ""
+                },
+                "allSuspensions": []
+            },
+            "performanceSeasons": [
+                {
+                    "key": "2024",
+                    "title": "24/25"
+                },
+                {
+                    "key": "2023",
+                    "title": "23/24"
+                },
+                {
+                    "key": "2022",
+                    "title": "22/23"
+                },
+                {
+                    "key": "2021",
+                    "title": "21/22"
+                },
+                {
+                    "key": "2020",
+                    "title": "20/21"
+                },
+                {
+                    "key": "2019",
+                    "title": "19/20"
+                },
+                {
+                    "key": "2018",
+                    "title": "18/19"
+                },
+                {
+                    "key": "2017",
+                    "title": "17/18"
+                },
+                {
+                    "key": "2016",
+                    "title": "16/17"
+                }
+            ],
+            "heroImages": [
+                {
+                    "id": "119603",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/musiala-jamal-2023-2024-bayern-munich-1035545430hjpg-1697537568-119603.jpg?lm=1697537584",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "139135",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/jamal-musiala-deutschland-dfb-2024-1718112592-139135.jpg?lm=1718112604",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "107953",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/jamal-musiala-fc-bayern-2023-tor-zur-meisterschaft-1685202199-107953.jpg?lm=1685202211",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "97226",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/jamal-musiala-deutschland-wm-2022-1669212991-97226.jpg?lm=1669212998",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "92857",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/jamal-musiala-fc-bayern-2022-23-1663674857-92857.jpg?lm=1663674865",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "86505",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/jamal-musiala-bayern-munchen-2022-1654757257-86505.jpg?lm=1654757280",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "72597",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/jamal-musiala-deutschland-2021-1634030589-72597.jpg?lm=1634030616",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "48600",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/jamal-musiala-fc-bayern-munchen-1602066963-48600.jpg?lm=1602066995",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "41357",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/jamal-musiala-fc-bayern-1592065016-41357.jpg?lm=1592064999",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "41061",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/jamal-musiala-trifft-fur-den-fc-bayern-munchen-ii-in-der-3-liga-1591771453-41061.jpg?lm=1591771472",
+                    "source": "IMAGO"
+                },
+                {
+                    "id": "38552",
+                    "url": "https://tmssl.akamaized.net//images/foto/normal/mamin-sanyang-tsg-1899-hoffenheim-jamal-musiala-fc-bayern-munchen-1589449300-38552.jpg?lm=1589449329",
+                    "source": "IMAGO"
+                }
+            ]
+        },
+        "status": true,
+        "message": "Successful"
+    }
+}
